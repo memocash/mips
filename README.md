@@ -13,3 +13,4 @@ However, sharing protocol additions and motivations is helpful for healthy colla
 | Id | Title | Created | Status |
 | --- | --- | --- | --- |
 | MIP-1 | [Example](mip-0001/mip-0001.md) | 2018-09-09 | - |
+| MIP-2 | [Send money](mip-0002/mip-0002.md) | 2018-09-13 | - |
