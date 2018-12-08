@@ -18,3 +18,4 @@ However, sharing protocol additions and motivations is helpful for healthy colla
 | MIP-4 | [Private messages](mip-0004/mip-0004.md) | 2018-09-14 | Draft |
 | MIP-5 | [Documents](mip-0005/mip-0005.md) | 2018-09-29 | Draft |
 | MIP-6 | [Commerce](mip-0006/mip-0006.md) | 2018-11-17 | Draft |
+| MIP-7 | [Gigs](mip-0007/mip-0007.md) | 2018-12-07 | Draft |
