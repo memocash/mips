@@ -20,3 +20,4 @@ However, sharing protocol additions and motivations is helpful for healthy colla
 | MIP-6 | [Commerce](mip-0006/mip-0006.md) | 2018-11-17 | Draft |
 | MIP-7 | [Gigs](mip-0007/mip-0007.md) | 2018-12-07 | Draft |
 | MIP-9 | [Token exchange](mip-0009/mip-0009.md) | 2019-06-05 | Final (v2) |
+| MIP-10 | [Address Handles](mip-0010/mip-0010.md) | 2020-02-28 | Draft |
